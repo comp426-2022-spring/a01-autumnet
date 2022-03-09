@@ -1,0 +1,19 @@
+{
+  "name": "a01-autumnet",
+  "version": "1.0.0",
+  "description": "assignment a01",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-autumnet.git"
+  },
+  "author": "Autumn Tucker",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-autumnet/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-autumnet#readme"
+}
